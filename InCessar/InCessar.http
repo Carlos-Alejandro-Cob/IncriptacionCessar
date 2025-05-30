@@ -1,0 +1,6 @@
+@InCessar_HostAddress = http://localhost:5032
+
+GET {{InCessar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
